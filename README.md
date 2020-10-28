@@ -14,7 +14,7 @@ Build employee database with SQL with the following tasks to complete for Pewlet
 
 ## Resources
 - Data Sources: departments.csv, dept_emp.csv, dept_manager.csv, employees.csv, salaries.csv and titles.csv
-- Software: PostgreSQL 12 and pgAdmin
+- Software: PostgreSQL and pgAdmin
 
 ## Results
 Based on the database that was created, there are four major points on this analysis:
