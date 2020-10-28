@@ -6,7 +6,7 @@ Build employee database with SQL with the following tasks to complete for Pewlet
 1.	Determine the number of retiring employees per title
 * Create a Retirement Titles table that holds all the titles of current employees who were born between January 1, 1952 and December 31, 1955. 
 * It needs to use the DISTINCT ON statement to create a table that contains the most recent title of each employee. 
-*Then, use the COUNT() function to create a final table that has the number of retirement-age employees by most recent job title.
+* Then, use the COUNT() function to create a final table that has the number of retirement-age employees by most recent job title.
 
 2.	Identify employees who are eligible to participate in a mentorship program. 
 * Create a mentorship-eligibility table that holds the current employees who were born between January 1, 1965 and December 31, 1965.
