@@ -37,3 +37,15 @@ Based on the database that was created, there are four major points on this anal
   
 
 ## Summary
+Based on the above results, there are 9 departments with only 5 departments that has managers and 4 department without managers. See below image.
+
+![alt text](analysis/manager_dept.png)
+
+There’s 6 managers will be retiring which will leave 6 departments without manager out of 9 departments.
+
+![alt text](analysis/retiring_mgr.png)
+
+The results also showed that there won’t be enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. 
+
+![alt text](analysis/mentor_elig_count.png)
+
